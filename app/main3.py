@@ -26,7 +26,7 @@ app.include_router(vote.router)
      
 @app.get("/")
 def root():
-    return {"message": "Hello World,, Hello asra you could do it, You will make it till the end just doo not stop"}
+    return {"message": "Hello World"}
 
 
 
