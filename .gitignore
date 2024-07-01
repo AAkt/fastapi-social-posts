@@ -2,3 +2,6 @@ __pycache__
 venv/
 .env
 SQL_Queries.txt
+main
+main1
+main2
